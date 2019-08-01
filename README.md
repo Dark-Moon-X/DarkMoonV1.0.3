@@ -1,12 +1,6 @@
-https://www.gnu.org/licenses/gpl-3.0.htmlDarkMoon {.project-name}
-========
 
 DARK MOON X for Microsoft Windows © UWP. GNU licensed project {.project-tagline}
 -------------------------------------------------------------
-
-[View on GitHub](https://github.com/ritchielawrence/cmdow) [Download
-.zip](https://github.com/ritchielawrence/cmdow/zipball/master) [Download
-.exe setup](https://github.com/ritchielawrence/cmdow/tarball/master)
 
 [](#table-of-contents)Table of Contents
 ---------------------------------------
