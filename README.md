@@ -304,7 +304,23 @@ PS C:\\Linux\\home\\Admin>
 
 [](#header-4)Launch Bash and XFCE from cmd and powershell
 
--   To do this, type in the console:
+*   To do this, type in the console:
+
+<pre>cd %systemdrive%/linux</pre>
+
+<pre>start\_xfce</pre>
+
+And to start a bash session, type this:
+
+<pre>cd %systemdrive%/linux</pre>
+
+<pre>start\_bash</pre>
+
+You can also choose to launch the menu by typing this on the console:
+
+<pre>cd %systemdrive%/linux</pre>
+
+<pre>start\_linux</pre>
 
 [](#apt-cyg)apt-cyg
 -------------------
