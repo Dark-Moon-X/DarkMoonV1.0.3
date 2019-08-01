@@ -1,5 +1,5 @@
 
-DARK MOON X for Microsoft Windows © UWP. GNU licensed project {.project-tagline}
+DARK MOON X for Microsoft Windows © UWP. GNU licensed project 
 -------------------------------------------------------------
 
 [](#table-of-contents)Table of Contents
