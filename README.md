@@ -45,6 +45,20 @@ The Darkmoon subsystem is easy to install, you have nothing to configure
 beforehand as it is the case with the Linux subsystems available on the
 Microsoft store this strengthens the intuitive side of this software
 
+[](#versions)versions
+---------------------
+
+[](#header-4)There are 2 versions of this software:
+
+*   A console version running directly from cmd.exe:
+
+This version of Dark Moon is nomadic (portable), you can move the software directory anywhere, including on a USB drive or portable hard drive.
+
+For example, you can consider installing and running an SSH server on your USB drive from Darkmoon.
+
+*   A version incorporating an XFCE 4 graphic environment
+
+For example, you can consider installing and running an SSH server on your USB drive from Darkmoon.
 
 [](#The-Cmdow-utility-is-a-virus?)The Cmdow utility is a virus?
 ---------------------------------------------------------------
