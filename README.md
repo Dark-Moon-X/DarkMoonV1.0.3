@@ -45,70 +45,7 @@ The Darkmoon subsystem is easy to install, you have nothing to configure
 beforehand as it is the case with the Linux subsystems available on the
 Microsoft store this strengthens the intuitive side of this software
 
-[](#Software-launch-mode)Software launch mode
----------------------------------------------
 
-[](#header-4)There are 2 versions of this software:
-
-A console version running directly from cmd.exe:
-
-*   to run cmd type "cmd"
-<pre>
- \[1\].Start an XFCE session
- \[2\].Start terminal
- \[3\].Exit DarkMoon
-                                                                 #####
-                                                                #######
-                   #                                            ##O#O##
-  ######          ###                                           #VVVVV#
-    ##             #                                          ##  VVV  ##
-    ##         ###    ### ####   ###    ###  ##### #####     #          ##
-    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
-    ##       #   ##    ##     ##  ##     ##      ###        #            ###
-    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
-    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
-    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
-  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
-
-  DARK MOON X for Microsoft Windows (c) UWP. GNU licensed project
-2
-
-Admin@DESKTOP-70FKMR6 ~
-$ cmd
-Microsoft Windows \[version 10.0.17134.885\]
-(c) 2018 Microsoft Corporation. Tous droits réservés.
-
-C:\\Linux\\home\\Admin>
-</pre>	  
-
-*   to run PowerShell type "powershell"
-<pre>
- \[1\].Start an XFCE session
- \[2\].Start terminal
- \[3\].Exit DarkMoon
-                                                                 #####
-                                                                #######
-                   #                                            ##O#O##
-  ######          ###                                           #VVVVV#
-    ##             #                                          ##  VVV  ##
-    ##         ###    ### ####   ###    ###  ##### #####     #          ##
-    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
-    ##       #   ##    ##     ##  ##     ##      ###        #            ###
-    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
-    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
-    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
-  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
-
-  DARK MOON X for Microsoft Windows (c) UWP. GNU licensed project
-2
-
-Admin@DESKTOP-70FKMR6 ~
-$ powershell
-Windows PowerShell
-Copyright (C) Microsoft Corporation. Tous droits réservés.
-
-PS C:\\Linux\\home\\Admin>
-</pre>
 [](#The-Cmdow-utility-is-a-virus?)The Cmdow utility is a virus?
 ---------------------------------------------------------------
 
@@ -288,8 +225,65 @@ You can add other programs with the following tools:
 
 [](#header-4)There are 2 versions of this software:
 
--   to run cmd type "cmd"
--   to run PowerShell type "powershell"
+A console version running directly from cmd.exe:
+
+*   to run cmd type "cmd"
+<pre>
+ \[1\].Start an XFCE session
+ \[2\].Start terminal
+ \[3\].Exit DarkMoon
+                                                                 #####
+                                                                #######
+                   #                                            ##O#O##
+  ######          ###                                           #VVVVV#
+    ##             #                                          ##  VVV  ##
+    ##         ###    ### ####   ###    ###  ##### #####     #          ##
+    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
+    ##       #   ##    ##     ##  ##     ##      ###        #            ###
+    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
+    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
+    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
+  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
+
+  DARK MOON X for Microsoft Windows (c) UWP. GNU licensed project
+2
+
+Admin@DESKTOP-70FKMR6 ~
+$ cmd
+Microsoft Windows \[version 10.0.17134.885\]
+(c) 2018 Microsoft Corporation. Tous droits réservés.
+
+C:\\Linux\\home\\Admin>
+</pre>	  
+
+*   to run PowerShell type "powershell"
+<pre>
+ \[1\].Start an XFCE session
+ \[2\].Start terminal
+ \[3\].Exit DarkMoon
+                                                                 #####
+                                                                #######
+                   #                                            ##O#O##
+  ######          ###                                           #VVVVV#
+    ##             #                                          ##  VVV  ##
+    ##         ###    ### ####   ###    ###  ##### #####     #          ##
+    ##        #  ##    ###    ##  ##     ##    ##   ##      #            ##
+    ##       #   ##    ##     ##  ##     ##      ###        #            ###
+    ##          ###    ##     ##  ##     ##      ###       QQ#           ##Q
+    ##       # ###     ##     ##  ##     ##     ## ##    QQQQQQ#       #QQQQQQ
+    ##      ## ### #   ##     ##  ###   ###    ##   ##   QQQQQQQ#     #QQQQQQQ
+  ############  ###   ####   ####   #### ### ##### #####   QQQQQ#######QQQQQ
+
+  DARK MOON X for Microsoft Windows (c) UWP. GNU licensed project
+2
+
+Admin@DESKTOP-70FKMR6 ~
+$ powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+PS C:\\Linux\\home\\Admin>
+</pre>
 
 [](#Darkmoon-in-the-Windows-command-line)Darkmoon in the Windows command line
 -----------------------------------------------------------------------------
