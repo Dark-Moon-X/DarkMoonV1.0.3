@@ -481,7 +481,7 @@ and the Microsoft Store ?
 ![Screenshot of DarkMoon]()
 
 ![Screenshot of
-DarkMoon](https://commons.wikimedia.org/wiki/File:Xfce_on_darkmoon.png)
+DarkMoon](https://pin.it/lvaqe4gq76a63q)
 
 ![Screenshot of
 DarkMoon](https://upload.wikimedia.org/wikipedia/commons/5/55/Terminal_start_linux_on_darkmoon.png)
