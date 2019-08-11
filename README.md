@@ -481,25 +481,25 @@ and the Microsoft Store ?
 ![Screenshot of DarkMoon]()
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/6/65/Xfce_on_darkmoon1.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/6/65/Xfce_on_darkmoon.png)
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/5/55/Terminal_start_linux_on_darkmoon.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/5/55/Terminal_start_linux_on_darkmoon.png)
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/0/0f/Terminal_on_darkmoon.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/0/0f/Terminal_on_darkmoon.png)
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/5/59/Gedit_on_darkmoon.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/5/59/Gedit_on_darkmoon.png)
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/0/03/Nano_on_darkmoon.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/0/03/Nano_on_darkmoon.png)
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mc_on_darkmoon.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/a/a3/Mc_on_darkmoon.png)
 
 ![Screenshot of
-Cmdow](https://upload.wikimedia.org/wikipedia/commons/b/b8/Start_linux_on_darkmoon.png)
+DarkMoon](https://upload.wikimedia.org/wikipedia/commons/b/b8/Start_linux_on_darkmoon.png)
 
 [](#Updates)Updates
 -------------------
