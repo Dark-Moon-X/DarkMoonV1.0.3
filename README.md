@@ -92,8 +92,7 @@ developer of the utility says about it:
 [](#Install-the-project)Install the project:
 --------------------------------------------
 
-If you have downloaded the archive from Github, simply extract it and
-click on Linux.exe.
+If you have downloaded the archive from Github, simply extract it and click on the "Linux-compiled-files" directory and launch "Linux.exe"
 
 De-archiving and installation will be done without human intervention.
 
