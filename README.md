@@ -301,19 +301,19 @@ PS C:\\Linux\\home\\Admin>
 
 <pre>cd %systemdrive%/linux</pre>
 
-<pre>start\_xfce</pre>
+<pre>start_xfce</pre>
 
 And to start a bash session, type this:
 
 <pre>cd %systemdrive%/linux</pre>
 
-<pre>start\_bash</pre>
+<pre>start_bash</pre>
 
 You can also choose to launch the menu by typing this on the console:
 
 <pre>cd %systemdrive%/linux</pre>
 
-<pre>start\_linux</pre>
+<pre>start_linux</pre>
 
 [](#apt-cyg)apt-cyg
 -------------------
