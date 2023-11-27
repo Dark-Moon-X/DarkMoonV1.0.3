@@ -1,36 +1,37 @@
-# Dark Moon Cybersecurity - Projet non maintenu sur GitHub
+# Dark Moon Cybersecurity - Project No Longer Maintained on GitHub
 
-![Projet non maintenu](https://img.shields.io/badge/%C3%89tat%20du%20projet-Non%20maintenu-red)
+![Project No Longer Maintained](https://img.shields.io/badge/Project%20Status-No%20Longer%20Maintained-red)
 
-**Note:** Ce projet n'est plus actuellement maintenu sur GitHub. Vous pouvez trouver la dernière version et les mises à jour sur Bitbucket à l'URL suivante : [https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4](https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4).
+**Note:** This project is no longer actively maintained on GitHub. You can find the latest version and updates on Bitbucket at the following URL: [https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4](https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4).
 
 ---
 
 ## Dark Moon v1.0.4 - Cybersecurity
 
-Bienvenue dans le référentiel Dark Moon Cybersecurity. Ce projet était initialement hébergé sur GitHub, mais nous avons déplacé notre base de code vers Bitbucket.
+Welcome to the Dark Moon Cybersecurity repository. This project was initially hosted on GitHub, but we have moved our codebase to Bitbucket.
 
-### 🚨 Avis d'arrêt de maintenance sur GitHub
+### 🚨 Notice of GitHub Maintenance Discontinuation
 
-Ce projet n'est plus activement maintenu sur GitHub. Pour toutes les mises à jour récentes, veuillez consulter notre référentiel sur Bitbucket à l'URL suivante : [https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4](https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4).
+This project is no longer actively maintained on GitHub. For all recent updates, please check our repository on Bitbucket at the following URL: [https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4](https://bitbucket.org/dark-moon-cybersecurity/darkmoonv1.0.4).
 
-### 📂 Structure du projet
+### 📂 Project Structure
 
-- `/docs`: Documentation du projet.
-- `/src`: Code source principal.
-- `/tests`: Tests unitaires et fonctionnels.
-- `/assets`: Ressources et fichiers associés.
+- `/docs`: Project documentation.
+- `/src`: Main source code.
+- `/tests`: Unit and functional tests.
+- `/assets`: Associated resources and files.
 
-### 🛠️ Contribuer
+### 🛠️ Contribute
 
-Bien que le projet ne soit plus maintenu sur GitHub, nous apprécions toujours les contributions. Si vous souhaitez contribuer, veuillez soumettre vos pull requests sur Bitbucket.
+Although the project is no longer maintained on GitHub, we still appreciate contributions. If you would like to contribute, please submit your pull requests on Bitbucket.
 
 ### 📧 Contact
 
-Pour toute question ou préoccupation, n'hésitez pas à nous contacter par email à l'adresse suivante : [contact@dark-moon.org](mailto:contact@dark-moon.org).
+For any questions or concerns, feel free to contact us via email at the following address: [contact@dark-moon.org](mailto:contact@dark-moon.org).
 
-Nous vous remercions de votre intérêt pour Dark Moon Cybersecurity.
+Thank you for your interest in Dark Moon Cybersecurity.
 
 ---
 
-*Ce fichier README est fourni à titre informatif uniquement et peut être soumis à des mises à jour sans préavis.*
+*This README file is provided for informational purposes only and may be subject to updates without notice.*
+
